@@ -1,0 +1,13 @@
+.image-1{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+.button-1{
+    background-color: transparent;
+    border-width: 0px;
+    cursor: pointer;
+}
+.li-container .button-1+.button-1{
+    margin-left: 15px;
+}

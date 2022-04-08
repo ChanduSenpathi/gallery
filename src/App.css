@@ -1,0 +1,13 @@
+.ul-container{
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.img-container{
+  display: flex;
+  justify-content: center;
+}
+.image-2{
+  width: 500px;
+  height: 400px;
+}
